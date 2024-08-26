@@ -24,7 +24,7 @@ The authors [Kensho Hara, Hirokatsu Kataoka, Yutaka Satoh](https://arxiv.org/abs
 ![](https://github.com/techycs18/human-activity-recognition/blob/master/Direcory%20Stucture.png)
 
 ### External download :
-- You need to dowwload a **`resnet-34_kinetics.onnx`** model from [**here**](https://www.dropbox.com/s/065l4vr8bptzohb/resnet-34_kinetics.onnx?dl=1) and once downloaded drop it inside the `model` directory of our project (shown in directory structure)
+- The **`resnet-34_kinetics.onnx`** model is already downloaded. Make sure it is inside the `model` directory of our project (shown in directory structure)
 
 ### Setup :
 1. I have added a video example for testing in `test` directory
@@ -43,6 +43,7 @@ python recognise_human_activity.py
 ##### Push Ups -
 ![-](https://github.com/techycs18/human-activity-recognition/blob/master/screenshots/pushups.png)
 
+#### The report of this project is also attached with the name Group Report.docx
 
 #### Acknowledments :
 - Kay et al.’s 2017 paper, [The Kinetics Human Action Video Dataset.](https://arxiv.org/abs/1705.06950)
